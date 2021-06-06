@@ -1,0 +1,107 @@
+body {
+    text-align: center;
+    min-width: 600;
+    background-color: white
+}
+
+canvas {
+    border: 1px solid black;
+}
+
+section {
+    min-width: 100;
+}
+
+.nonCanvasComponents {
+    margin-top: 1px;
+    background-color: white;
+    color: black;
+    width: 250px;
+    float: left;
+}
+
+.nonCanvasResults {
+    margin-top: 1px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: white;
+    color: black;
+    width: 250px;
+    float: left;
+}
+
+.graph2 {
+    float: left;
+}
+
+.graph1 {
+    float: right;
+}
+
+.graph3 {
+    float: left;
+}
+
+.graph4 {
+    float: right;
+}
+
+.initialline{
+    display: block;
+    clear: both;
+    border-style: none none dotted;
+}
+
+.line {
+    display: block;
+    clear: both;
+    padding-top: 5px;
+    border-style: none none dotted;;
+}
+
+.slider {
+    vertical-align: center;
+    float: right;
+    margin-right: 200px;
+    margin-top: 100px;
+}
+
+table {
+    font-size: 12pt;
+    font-weight: bold;
+    text-align: center;
+}
+
+.nonCanvasComponents{
+    margin-left: 50px;
+}
+.nonCanvasComponents{
+    margin-right: 50px;
+}
+
+
+input[type=text] {
+    width: 100%;
+    margin: 1px 0;
+    box-sizing: border-box;
+    font-size: 12pt;
+    font-weight: bold;
+}
+
+button {
+    margin-top: 10px;
+    font-size: 10pt;
+}
+
+.blank_row {
+    height: 3px;
+}
+
+.slider_range {
+    width: 180px;
+}
+
+input[type=text] {
+    border: 1px solid black;
+    border-radius: 2px;
+}
