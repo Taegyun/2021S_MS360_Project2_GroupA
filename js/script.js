@@ -2,7 +2,10 @@
     // JS to accompany the HTML to compute the Mohrs Circle 2D.
     // Written by Amarnath S, aka Avijnata, May 2019
     // amarnaths.codeproject@gmail.com
-
+    // Modified by Taegyun Ahn and Jaehee Lee, June 2021
+    // for group project of MS360 2021 Spring, KAIST.
+    // contact: xorbs0088@kaist.ac.kr (Taegyun Ahn)
+    
     var sigmax;
     var sigmay;
     var tauxy;
